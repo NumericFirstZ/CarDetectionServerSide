@@ -12,12 +12,12 @@
 
     <link rel="stylesheet" type="text/css" href="./style.css" />
 
-    <!-- <script src="fetchdataToMaps.mjs" type="module"></script> -->
+    <script src="fetchdataToMaps.js" type="module"></script>
     <script src="index.js" ></script>
 
     <!-- AIzaSyAuUvwnfRjDGHZZjU44NitMoc6rxWuzCgY -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuUvwnfRjDGHZZjU44NitMoc6rxWuzCgY&callback=initMap" async></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuUvwnfRjDGHZZjU44NitMoc6rxWuzCgY&callback=initMap" defer async></script>
 
 </head>
 

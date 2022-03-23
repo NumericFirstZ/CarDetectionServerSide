@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="./style2.css" />
 
     <script src = "fetchdata.js" type="module"></script>
+    
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <title>Car Dectecion</title>
 </head>
