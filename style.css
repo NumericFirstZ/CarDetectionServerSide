@@ -1,0 +1,48 @@
+#map {
+    height: 100%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    background-color: #4CAF50;
+}
+
+#content {
+    background-color: white;
+}
+
+#bt {
+    position: relative;
+}
+
+.gm-style-iw {
+    border: 1px solid red;
+}
+
+h2 {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#bt-1 {
+    color: green;
+    text-align: right;
+    margin: 0px auto;
+    display: block;
+}
+
+#bt-2 {
+    color: red;
+    text-align: left;
+    margin: 0px auto;
+    display: block;
+}

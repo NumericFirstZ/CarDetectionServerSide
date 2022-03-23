@@ -1,0 +1,37 @@
+{
+    "car": {
+        "car1": {
+            "CarColor": "Black",
+            "CarCompany": "TOYOTA",
+            "CarLPlate": "1กง 3661 กรุงเทพ",
+            "CarStatus": "Flip",
+            "CarType": "PICK UP",
+            "DriverAge": "30",
+            "DriverBloodType": "A",
+            "DriverID": "1909802300000",
+            "DriverName": "สมศักดิ อดิเรก",
+            "Gas": 2,
+            "GasStatus": "Normal Gas",
+            "Latitude": 7.01249,
+            "Longitude": 100.45887,
+            "X": -0.54037,
+            "Y": 0.90461,
+            "Z": 0.02001
+        },
+        "car2": {
+            "CarColor": "Red",
+            "CarCompany": "BMW",
+            "CarLPlate": "1กก 9999 กรุงเทพ",
+            "CarType": "Sport",
+            "DriverAge": "26",
+            "DriverBloodType": "A",
+            "DriverID": "1909802312345",
+            "DriverName": "โรเบิร์ต ดาวนี่",
+            "Latitude": 3,
+            "Longitude": 20,
+            "X": -0.54037,
+            "Y": 0.90461,
+            "Z": 0.02001
+        }
+    }
+}
